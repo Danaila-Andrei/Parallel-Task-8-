@@ -1,0 +1,4 @@
+The sequential method has a longer working time than the parallel one.Using the parallel method we will only go through files that have changed, those that have not been changed and that remain unchanged are skipped
+
+Secvențial: 460.39 secunde
+Paralel: 2.93 secunde
